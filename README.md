@@ -19,4 +19,4 @@
 
 SVN的备份通过SVN sync进行，是系统自带的，并且能够实时进行同步，避免常规备份，数据无法实时备份的问题。为确保同步完成，邮件通知和自动更新将分别在两台SVN服务器上进行。
 
-![](file:///C:/Users/wangfei/Desktop/GIT/SVN-Manager/image/SVN.jpg "SVN架构")
+![](./image/SVN.jpg "SVN架构")
